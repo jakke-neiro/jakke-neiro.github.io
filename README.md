@@ -2,8 +2,8 @@
 
 <img src="https://github.com/jakke-neiro/oxplatys/blob/master/oxfordplanarianlogo.png" width="500">
 
-Jakke Neiro^1
-Nathan Kenny^2
+Jakke Neiro<sup>1</sup>
+Nathan Kenny<sup>2</sup>
 
 1. Aboobaker lab, Department of Zoology, University of Oxford jakke.neiro@zoo.ox.ac.uk
 2. Solana lab, Oxford Brookes University
