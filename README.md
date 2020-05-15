@@ -1,4 +1,4 @@
 # Oxplatys
 The Oxford Planarian Community
 
-![](https://github.com/jakke-neiro/oxplatys/oxfordplanarianlogo.png)
+![](https://github.com/jakke-neiro/oxplatys/blob/master/oxfordplanarianlogo.png)
